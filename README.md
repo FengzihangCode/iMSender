@@ -1,3 +1,2 @@
 # iMSender
- Python Script to send iMessage
- For Demo
+ Python Script to send iMessage for Demo
